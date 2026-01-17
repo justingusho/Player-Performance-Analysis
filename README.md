@@ -1,6 +1,6 @@
-# Player-Performance-Analysis
+# Player-Performance-Analysis 
 
-📌 Project Overview
+Project Overview
 
 This mini-project showcases a Power BI dashboard designed to analyze the performance of a fictional football player. The project was created purely for learning and fun purposes, focusing on data modeling, relationships, and interactive visual analytics in Power BI.
 
@@ -18,7 +18,7 @@ Key Features:
 <img width="1231" height="743" alt="image" src="https://github.com/user-attachments/assets/3022ec3f-e21a-408f-8e45-c72fc8e9c583" />
 
 
-🧩 Data & Modeling
+Data & Modeling
 
 - The dataset was created from scratch in Excel
 
